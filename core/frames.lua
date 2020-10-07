@@ -241,7 +241,10 @@ for i,v in pairs({
       ReputationWatchBar.StatusBar.WatchBarTexture1,
       ReputationWatchBar.StatusBar.WatchBarTexture2,
       ReputationWatchBar.StatusBar.WatchBarTexture3,
-
+	  ReputationWatchBar.StatusBar.XPBarTexture0,
+	  ReputationWatchBar.StatusBar.XPBarTexture1,
+	  ReputationWatchBar.StatusBar.XPBarTexture2,
+	  ReputationWatchBar.StatusBar.XPBarTexture3
 }) do
 
    v:SetVertexColor(.2, .2, .2)
@@ -333,27 +336,27 @@ for i,v in pairs({
 	  ContainerFrame5BackgroundTop,
 	  ContainerFrame5BackgroundMiddle1,
 	  ContainerFrame5BackgroundBottom,
-	
+
 	  ContainerFrame6BackgroundTop,
 	  ContainerFrame6BackgroundMiddle1,
 	  ContainerFrame6BackgroundBottom,
-	  
+
 	  ContainerFrame7BackgroundTop,
 	  ContainerFrame7BackgroundMiddle1,
 	  ContainerFrame7BackgroundBottom,
-	  
+
 	  ContainerFrame8BackgroundTop,
 	  ContainerFrame8BackgroundMiddle1,
 	  ContainerFrame8BackgroundBottom,
-	  
+
 	  ContainerFrame9BackgroundTop,
 	  ContainerFrame9BackgroundMiddle1,
 	  ContainerFrame9BackgroundBottom,
-	  
+
 	  ContainerFrame10BackgroundTop,
 	  ContainerFrame10BackgroundMiddle1,
 	  ContainerFrame10BackgroundBottom,
-	  
+
 	  ContainerFrame11BackgroundTop,
 	  ContainerFrame11BackgroundMiddle1,
 	  ContainerFrame11BackgroundBottom,
