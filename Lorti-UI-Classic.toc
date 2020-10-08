@@ -1,6 +1,6 @@
 ## Interface: 11302
 ## Author: Lorti, Chordsy
-## Version: 1.1.0
+## Version: 1.1.1
 ## Title: Lorti UI Classic
 ## Notes: Darkens the default UI. Updated for Classic by Chordsy
 
